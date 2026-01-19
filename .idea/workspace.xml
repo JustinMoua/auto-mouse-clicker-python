@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdd911bf-ba8c-4785-ae42-dc14cc2cdca9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/auto_clicker_frontend.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auto_clicker_backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/auto_clicker_backend.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auto_clicker_gui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768775751967</updated>
-      <workItem from="1768775753864" duration="8265000" />
+      <workItem from="1768775753864" duration="8825000" />
     </task>
     <servers />
   </component>
